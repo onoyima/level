@@ -49,3 +49,7 @@ backend onoyima-backend
         balance roundrobin
         server 146556-web-01 52.87.231.125 check
         server 146556-web-02 54.210.76.68 check
+<<<<<<< HEAD
+=======
+
+>>>>>>> f3430bbf05a2f80dbfe2cc6a89686a8359c32243
